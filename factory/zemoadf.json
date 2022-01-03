@@ -1,0 +1,9 @@
+{
+	"name": "zemoadf",
+	"location": "centralus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "5ff7782c-f097-4557-8e1a-33dc3d156e97",
+		"tenantId": "cff4dfbb-246c-4d62-806a-a25400a37c72"
+	}
+}
