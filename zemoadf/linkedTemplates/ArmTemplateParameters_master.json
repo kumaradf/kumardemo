@@ -5,6 +5,12 @@
 		"factoryName": {
 			"value": "zemoadf"
 		},
+		"AzureDataLakeStorage1_accountKey": {
+			"value": ""
+		},
+		"AzureDataLakeStorage1_properties_typeProperties_url": {
+			"value": "https://ksaa.dfs.core.windows.net"
+		},
 		"containerUri": {
 			"value": ""
 		},
